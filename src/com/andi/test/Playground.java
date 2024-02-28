@@ -3,6 +3,8 @@ package com.andi.test;
 import java.util.Comparator;
 import java.util.List;
 
+import com.andi.test.model.Pessoa;
+
 public class Playground {
 
 	/*

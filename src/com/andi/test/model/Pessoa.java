@@ -1,4 +1,4 @@
-package com.andi.test;
+package com.andi.test.model;
 
 import java.util.ArrayList;
 import java.util.List;
